@@ -3,8 +3,9 @@ package git_exam1;
 public class Hello {
 
 	public static void main(String[] args) {
-		System.out.println("201014099");
-		System.out.println("홍길동");
+		System.out.println("IT융합자율학부 소프트웨어전공");
+		System.out.println("201532033");
+		System.out.println("정지혁");
 	}
 
 }
